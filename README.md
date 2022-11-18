@@ -4,11 +4,13 @@
 </em></p>
 
 [![Linkedin: Luana](https://img.shields.io/badge/-Luana-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luana-lisette-morales-ancajima/)](https://www.linkedin.com/in/luana-lisette-morales-ancajima-79b24b213/)
-[![Linkedin: Luana](https://www.linkedin.com/in/luana-lisette-morales-ancajima-79b24b213/)
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
+- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- 🌱 &nbsp; Currently Python and Rstudio.
+- Open for project collaboration and internship opportunities. 
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 

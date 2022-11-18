@@ -19,11 +19,10 @@ I am an eighth cycle student, I am improving my CV through extracurricular cours
 
 💻 &nbsp; Python | Stata| R (Statistics)
  
-• I have knowledge of and work with different sources of information: Enaho, Endes, Censo
-2017, among others.
-• Management of spatial information
-• Management of Google Cloud services: geocoding and Travel time
-• Management of linear models in the three programming languages.
+- I have knowledge of and work with different sources of information: Enaho, Endes, Censo 2017, among others.
+- Management of spatial information
+- Management of Google Cloud services: geocoding and Travel time
+- Management of linear models in the three programming languages.
 
 
   

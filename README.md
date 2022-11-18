@@ -8,8 +8,8 @@
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
-🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
- 🌱 &nbsp; Currently Python and Rstudio.
+<🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+<🌱 &nbsp; Currently Python and Rstudio.
 - Open for project collaboration and internship opportunities. 
 - Taking online courses about Data Science and Machine Learning 
  

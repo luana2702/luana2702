@@ -18,6 +18,13 @@ I am an eighth cycle student, I am improving my CV through extracurricular cours
  <h3>🛠 Tech Stack</h3>
 
 💻 &nbsp; Python | Stata| R (Statistics)
+ 
+• I have knowledge of and work with different sources of information: Enaho, Endes, Censo
+2017, among others.
+• Management of spatial information
+• Management of Google Cloud services: geocoding and Travel time
+• Management of linear models in the three programming languages.
+
 
   
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>

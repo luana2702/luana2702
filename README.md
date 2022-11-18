@@ -1,7 +1,6 @@
 <h2> Hi, I'm Luana Morales! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
-<p><em>Economist at <a href="http://www.pucp.edu.pe">Pontificia Universidad Católica del Perú</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Developer Consultant at <a href="https://www.thoughtworks.com">ThoughtWorks</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</em></p>
+<p><em>Economist at <a href="http://www.pucp.edu.pe">Pontificia Universidad Católica del Perú</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" 
 
 [![Linkedin: Luana](https://img.shields.io/badge/-Luana-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luana-lisette-morales-ancajima/)](https://www.linkedin.com/in/luana-lisette-morales-ancajima-79b24b213/)
 

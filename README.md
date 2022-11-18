@@ -3,7 +3,7 @@
 <p><em>Economist at <a href="http://www.pucp.edu.pe">Pontificia Universidad Católica del Perú</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Developer Consultant at <a href="https://www.thoughtworks.com">ThoughtWorks</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-
+[![Linkedin: Luana](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luana-lisette-morales-ancajima/)](https://www.linkedin.com/in/luana-lisette-morales-ancajima/)
 [![Linkedin: Luana](https://www.linkedin.com/in/luana-lisette-morales-ancajima-79b24b213/)
 
 

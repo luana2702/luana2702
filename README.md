@@ -3,7 +3,7 @@
 
 <p><em>Economist at <a href="http://www.pucp.edu.pe">Pontificia Universidad Católica del Perú</a>  <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"> 
 
-[![Linkedin](https://img.shields.io/badge/-Luana-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luana-lisette-morales-ancajima/)](https://www.linkedin.com/in/luana-lisette-morales-ancajima-79b24b213/)
+[![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luana-lisette-morales-ancajima/)](https://www.linkedin.com/in/luana-lisette-morales-ancajima-79b24b213/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:a20191240@pucp.edu.pe)
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
